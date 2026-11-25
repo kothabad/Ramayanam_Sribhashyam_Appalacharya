@@ -1,0 +1,20 @@
+{
+  "app": "madhuram",
+  "schemaVersion": 1,
+  "role": "library",
+  "config": {
+    "maxFileBytes": 25690112,
+    "maxRepoBytes": 996147200
+  },
+  "repos": [
+    {
+      "name": "Ramayanam_Sribhashyam_Appalacharya",
+      "usedBytes": 0,
+      "full": false
+    }
+  ],
+  "currentRepo": "Ramayanam_Sribhashyam_Appalacharya",
+  "tracks": [],
+  "sources": [],
+  "updatedAt": "2026-11-25T14:30:53.362Z"
+}
