@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 1,
+  "trackId": "84015782-b7fa-42a9-9b38-6de9977a7ffc",
+  "media": {
+    "name": "4_RAMAYANAM AYODHYAKANDA  PART1 Sriman Sribhashyam Appalacharyaswamy-(129k).mp3",
+    "mime": "audio/mpeg",
+    "bytes": 47678889,
+    "sha256": "3e6545a16d1bff020de3c12621b012f00b7080b47e258a5da8788919bf645e76",
+    "parts": [
+      {
+        "n": 0,
+        "repo": "Ramayanam_Sribhashyam_Appalacharya",
+        "path": "data/84/84015782-b7fa-42a9-9b38-6de9977a7ffc/media.0",
+        "bytes": 25690112,
+        "sha": "55863c216072bcf01484ba08f13cf33156f2a22f"
+      },
+      {
+        "n": 1,
+        "repo": "Ramayanam_Sribhashyam_Appalacharya",
+        "path": "data/84/84015782-b7fa-42a9-9b38-6de9977a7ffc/media.1",
+        "bytes": 21988777,
+        "sha": "715f693dca894096e93abfcd64023af585ced6fb"
+      }
+    ]
+  },
+  "cover": {
+    "name": "cover.png",
+    "mime": "image/png",
+    "bytes": 390839,
+    "sha256": "b8150620465d93a7621175f3b6f69c2ac065cf76bab682d8a02535400d49bf28",
+    "parts": [
+      {
+        "n": 0,
+        "repo": "Ramayanam_Sribhashyam_Appalacharya",
+        "path": "data/84/84015782-b7fa-42a9-9b38-6de9977a7ffc/cover.0",
+        "bytes": 390839,
+        "sha": "3ed658b100ca17f48f8bb2807798008a8e95153e"
+      }
+    ]
+  }
+}
