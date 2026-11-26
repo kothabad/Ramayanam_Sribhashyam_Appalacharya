@@ -9,12 +9,27 @@
   "repos": [
     {
       "name": "Ramayanam_Sribhashyam_Appalacharya",
-      "usedBytes": 0,
+      "usedBytes": 190412756,
       "full": false
     }
   ],
   "currentRepo": "Ramayanam_Sribhashyam_Appalacharya",
-  "tracks": [],
+  "tracks": [
+    {
+      "id": "4616f1ff-ded9-4d26-9bb1-665e9c0edc6d",
+      "kind": "audio",
+      "title": "12_Ayodhya Kanda_Sriman Sribhashyam Appalacharyaswamy",
+      "artist": "Unknown",
+      "album": "Unknown",
+      "duration": 7914,
+      "mime": "audio/mpeg",
+      "bytes": 190412756,
+      "sha256": "2f46f16e3a698a0793b6fa2034f12dfa2d6c63965b1cad419e260f66e0e30d67",
+      "addedAt": "2026-11-26T05:56:13.547Z",
+      "updatedAt": "2026-11-26T05:56:13.547Z",
+      "manifest": "manifests/4616f1ff-ded9-4d26-9bb1-665e9c0edc6d.json"
+    }
+  ],
   "sources": [],
-  "updatedAt": "2026-11-25T14:30:53.362Z"
+  "updatedAt": "2026-11-26T05:58:39.527Z"
 }

@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "trackId": "4616f1ff-ded9-4d26-9bb1-665e9c0edc6d",
+  "media": {
+    "name": "12_Ayodhya Kanda_Sriman Sribhashyam Appalacharyaswamy.mp3",
+    "mime": "audio/mpeg",
+    "bytes": 190412756,
+    "sha256": "2f46f16e3a698a0793b6fa2034f12dfa2d6c63965b1cad419e260f66e0e30d67",
+    "parts": [
+      {
+        "n": 0,
+        "repo": "Ramayanam_Sribhashyam_Appalacharya",
+        "path": "data/46/4616f1ff-ded9-4d26-9bb1-665e9c0edc6d/media.0",
+        "bytes": 25690112,
+        "sha": "d9cb20f75bbfad356da4de965d98d7a0ccf1885b"
+      },
+      {
+        "n": 1,
+        "repo": "Ramayanam_Sribhashyam_Appalacharya",
+        "path": "data/46/4616f1ff-ded9-4d26-9bb1-665e9c0edc6d/media.1",
+        "bytes": 25690112,
+        "sha": "b05c678d08546b779f926cdcef81639abb3058f1"
+      },
+      {
+        "n": 2,
+        "repo": "Ramayanam_Sribhashyam_Appalacharya",
+        "path": "data/46/4616f1ff-ded9-4d26-9bb1-665e9c0edc6d/media.2",
+        "bytes": 25690112,
+        "sha": "6463868917111cd50b61f6915dfcadbb1c21ece6"
+      },
+      {
+        "n": 3,
+        "repo": "Ramayanam_Sribhashyam_Appalacharya",
+        "path": "data/46/4616f1ff-ded9-4d26-9bb1-665e9c0edc6d/media.3",
+        "bytes": 25690112,
+        "sha": "a69ab5be3321ba75a8f9d3bfa5b68a6972c58550"
+      },
+      {
+        "n": 4,
+        "repo": "Ramayanam_Sribhashyam_Appalacharya",
+        "path": "data/46/4616f1ff-ded9-4d26-9bb1-665e9c0edc6d/media.4",
+        "bytes": 25690112,
+        "sha": "e81e50cca67a7e652504775ef34eb88f617a4b20"
+      },
+      {
+        "n": 5,
+        "repo": "Ramayanam_Sribhashyam_Appalacharya",
+        "path": "data/46/4616f1ff-ded9-4d26-9bb1-665e9c0edc6d/media.5",
+        "bytes": 25690112,
+        "sha": "6c61c7c25160ca4deaa2ba26fdf36fe0b929b19a"
+      },
+      {
+        "n": 6,
+        "repo": "Ramayanam_Sribhashyam_Appalacharya",
+        "path": "data/46/4616f1ff-ded9-4d26-9bb1-665e9c0edc6d/media.6",
+        "bytes": 25690112,
+        "sha": "840e5f901fc6ca272cdfd3df0bf72e8e199619d5"
+      },
+      {
+        "n": 7,
+        "repo": "Ramayanam_Sribhashyam_Appalacharya",
+        "path": "data/46/4616f1ff-ded9-4d26-9bb1-665e9c0edc6d/media.7",
+        "bytes": 10581972,
+        "sha": "aa600f939717e01d2c3753bd602c9e845219b8fa"
+      }
+    ]
+  }
+}
