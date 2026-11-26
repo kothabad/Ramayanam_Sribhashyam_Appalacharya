@@ -9,7 +9,7 @@
   "repos": [
     {
       "name": "Ramayanam_Sribhashyam_Appalacharya",
-      "usedBytes": 354933891,
+      "usedBytes": 435165609,
       "full": false
     }
   ],
@@ -84,8 +84,22 @@
       "addedAt": "2026-11-26T05:56:12.762Z",
       "updatedAt": "2026-11-26T05:56:12.762Z",
       "manifest": "manifests/84015782-b7fa-42a9-9b38-6de9977a7ffc.json"
+    },
+    {
+      "id": "14755ea3-b08f-4364-a537-a6d1963801ed",
+      "kind": "audio",
+      "title": "RAMAYANAM AYODHYAKANDA PART2 Sriman Sribhashyam Appalacharyaswamy",
+      "artist": "Murali Mohan",
+      "album": "Unknown",
+      "duration": 4956,
+      "mime": "audio/mpeg",
+      "bytes": 79770019,
+      "sha256": "b6e97f9881a7099df08a43b944669f81a0dfc9d2b3a0a8d8904fdaf244dfa51b",
+      "addedAt": "2026-11-26T05:56:12.868Z",
+      "updatedAt": "2026-11-26T05:56:12.868Z",
+      "manifest": "manifests/14755ea3-b08f-4364-a537-a6d1963801ed.json"
     }
   ],
   "sources": [],
-  "updatedAt": "2026-11-26T06:01:28.112Z"
+  "updatedAt": "2026-11-26T06:02:33.645Z"
 }
