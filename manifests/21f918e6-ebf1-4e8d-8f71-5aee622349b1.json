@@ -1,0 +1,55 @@
+{
+  "schemaVersion": 1,
+  "trackId": "21f918e6-ebf1-4e8d-8f71-5aee622349b1",
+  "media": {
+    "name": "10_RAMAYANAM SUNDARAKANDA PART 2 Sriman Sribhashyam Appalacharyaswamy-(130k).mp3",
+    "mime": "audio/mpeg",
+    "bytes": 79032669,
+    "sha256": "93fc0b63f04f710a3c14620ca40ffbf1b80422b70df5325707db03316bf4565a",
+    "parts": [
+      {
+        "n": 0,
+        "repo": "Ramayanam_Sribhashyam_Appalacharya",
+        "path": "data/21/21f918e6-ebf1-4e8d-8f71-5aee622349b1/media.0",
+        "bytes": 25690112,
+        "sha": "a7bda38822cabc194e1a4040e6377d7a2949425a"
+      },
+      {
+        "n": 1,
+        "repo": "Ramayanam_Sribhashyam_Appalacharya",
+        "path": "data/21/21f918e6-ebf1-4e8d-8f71-5aee622349b1/media.1",
+        "bytes": 25690112,
+        "sha": "d9993e2c73aad150068cb2e5e0402ab0f36d4598"
+      },
+      {
+        "n": 2,
+        "repo": "Ramayanam_Sribhashyam_Appalacharya",
+        "path": "data/21/21f918e6-ebf1-4e8d-8f71-5aee622349b1/media.2",
+        "bytes": 25690112,
+        "sha": "f4940976d5d7f9d1e2d484cf48540c790aa82af9"
+      },
+      {
+        "n": 3,
+        "repo": "Ramayanam_Sribhashyam_Appalacharya",
+        "path": "data/21/21f918e6-ebf1-4e8d-8f71-5aee622349b1/media.3",
+        "bytes": 1962333,
+        "sha": "4ba28b265c02ce59dbc03dd78f624d144fef8fa9"
+      }
+    ]
+  },
+  "cover": {
+    "name": "cover.png",
+    "mime": "image/png",
+    "bytes": 406665,
+    "sha256": "7aa0234970bb9f6f0e29b6d0fade169951c822b96d086c6c37598745defbdefb",
+    "parts": [
+      {
+        "n": 0,
+        "repo": "Ramayanam_Sribhashyam_Appalacharya",
+        "path": "data/21/21f918e6-ebf1-4e8d-8f71-5aee622349b1/cover.0",
+        "bytes": 406665,
+        "sha": "bf0f9937a823a6b68f63720a19072a043a48fbbb"
+      }
+    ]
+  }
+}

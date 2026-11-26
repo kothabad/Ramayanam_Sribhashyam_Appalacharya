@@ -9,7 +9,7 @@
   "repos": [
     {
       "name": "Ramayanam_Sribhashyam_Appalacharya",
-      "usedBytes": 698210371,
+      "usedBytes": 777649705,
       "full": false
     }
   ],
@@ -154,8 +154,22 @@
       "addedAt": "2026-11-26T05:56:13.153Z",
       "updatedAt": "2026-11-26T05:56:13.153Z",
       "manifest": "manifests/69447fda-b48b-41e2-9921-b0a528ce715a.json"
+    },
+    {
+      "id": "21f918e6-ebf1-4e8d-8f71-5aee622349b1",
+      "kind": "audio",
+      "title": "RAMAYANAM SUNDARAKANDA PART 2 Sriman Sribhashyam Appalacharyaswamy",
+      "artist": "Murali Mohan",
+      "album": "Unknown",
+      "duration": 4914,
+      "mime": "audio/mpeg",
+      "bytes": 79032669,
+      "sha256": "93fc0b63f04f710a3c14620ca40ffbf1b80422b70df5325707db03316bf4565a",
+      "addedAt": "2026-11-26T05:56:13.237Z",
+      "updatedAt": "2026-11-26T05:56:13.237Z",
+      "manifest": "manifests/21f918e6-ebf1-4e8d-8f71-5aee622349b1.json"
     }
   ],
   "sources": [],
-  "updatedAt": "2026-11-26T06:06:14.115Z"
+  "updatedAt": "2026-11-26T06:10:06.708Z"
 }
