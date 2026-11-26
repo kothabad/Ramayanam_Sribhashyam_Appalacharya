@@ -9,7 +9,7 @@
   "repos": [
     {
       "name": "Ramayanam_Sribhashyam_Appalacharya",
-      "usedBytes": 516939829,
+      "usedBytes": 562766055,
       "full": false
     }
   ],
@@ -112,8 +112,22 @@
       "addedAt": "2026-11-26T05:56:12.645Z",
       "updatedAt": "2026-11-26T05:56:12.645Z",
       "manifest": "manifests/d377c0a5-d75a-4b66-a712-e5b9117f668d.json"
+    },
+    {
+      "id": "c090e554-4be4-4dbb-b65a-d11fad2bccc5",
+      "kind": "audio",
+      "title": "RAMAYANAM BALAKANDA PART2 Sriman Sribhashyam Appalacharyaswamy",
+      "artist": "Murali Mohan",
+      "album": "Unknown",
+      "duration": 2802,
+      "mime": "audio/mpeg",
+      "bytes": 45336449,
+      "sha256": "b185a3d9b42445b623373f9e46a7602f50326868017f974d62ba29a77f5f0810",
+      "addedAt": "2026-11-26T05:56:12.699Z",
+      "updatedAt": "2026-11-26T05:56:12.699Z",
+      "manifest": "manifests/c090e554-4be4-4dbb-b65a-d11fad2bccc5.json"
     }
   ],
   "sources": [],
-  "updatedAt": "2026-11-26T06:03:39.281Z"
+  "updatedAt": "2026-11-26T06:04:20.347Z"
 }
