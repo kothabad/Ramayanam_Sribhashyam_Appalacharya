@@ -9,7 +9,7 @@
   "repos": [
     {
       "name": "Ramayanam_Sribhashyam_Appalacharya",
-      "usedBytes": 206281376,
+      "usedBytes": 285857376,
       "full": false
     }
   ],
@@ -42,8 +42,22 @@
       "addedAt": "2026-11-26T05:56:12.553Z",
       "updatedAt": "2026-11-26T05:56:12.553Z",
       "manifest": "manifests/ec569198-d934-4882-9ab0-20e393e604d7.json"
+    },
+    {
+      "id": "ddeba9d2-6313-4865-8169-b0c41d2a4cdb",
+      "kind": "audio",
+      "title": "RAMAYANAM ARANYAKANDA PART1 Sriman Sribhashyam Appalacharyaswamy",
+      "artist": "Murali Mohan",
+      "album": "Unknown",
+      "duration": 4923,
+      "mime": "audio/mpeg",
+      "bytes": 79177993,
+      "sha256": "0323ac2093585d378874d5db6c84191e1351493368f47ea4a6c0b4e9423e0701",
+      "addedAt": "2026-11-26T05:56:12.959Z",
+      "updatedAt": "2026-11-26T05:56:12.959Z",
+      "manifest": "manifests/ddeba9d2-6313-4865-8169-b0c41d2a4cdb.json"
     }
   ],
   "sources": [],
-  "updatedAt": "2026-11-26T05:59:05.972Z"
+  "updatedAt": "2026-11-26T06:00:13.253Z"
 }

@@ -1,0 +1,55 @@
+{
+  "schemaVersion": 1,
+  "trackId": "ddeba9d2-6313-4865-8169-b0c41d2a4cdb",
+  "media": {
+    "name": "6_RAMAYANAM ARANYAKANDA PART1 Sriman Sribhashyam Appalacharyaswamy-(130k).mp3",
+    "mime": "audio/mpeg",
+    "bytes": 79177993,
+    "sha256": "0323ac2093585d378874d5db6c84191e1351493368f47ea4a6c0b4e9423e0701",
+    "parts": [
+      {
+        "n": 0,
+        "repo": "Ramayanam_Sribhashyam_Appalacharya",
+        "path": "data/dd/ddeba9d2-6313-4865-8169-b0c41d2a4cdb/media.0",
+        "bytes": 25690112,
+        "sha": "5133015c1c3e3cb5851f2bdd2037c2b4f1117575"
+      },
+      {
+        "n": 1,
+        "repo": "Ramayanam_Sribhashyam_Appalacharya",
+        "path": "data/dd/ddeba9d2-6313-4865-8169-b0c41d2a4cdb/media.1",
+        "bytes": 25690112,
+        "sha": "5da1774eff994c97ba4f1535242cc94c8f929c80"
+      },
+      {
+        "n": 2,
+        "repo": "Ramayanam_Sribhashyam_Appalacharya",
+        "path": "data/dd/ddeba9d2-6313-4865-8169-b0c41d2a4cdb/media.2",
+        "bytes": 25690112,
+        "sha": "826230340a9d569a0ed1979e6f367691eecbf1fa"
+      },
+      {
+        "n": 3,
+        "repo": "Ramayanam_Sribhashyam_Appalacharya",
+        "path": "data/dd/ddeba9d2-6313-4865-8169-b0c41d2a4cdb/media.3",
+        "bytes": 2107657,
+        "sha": "8f79a34ab9a235650eee205be9aa959c0f5099de"
+      }
+    ]
+  },
+  "cover": {
+    "name": "cover.png",
+    "mime": "image/png",
+    "bytes": 398007,
+    "sha256": "71408b4ba7cb1af3183d179753f3e9acecee6bef03d54ae1f8cf104d78a85770",
+    "parts": [
+      {
+        "n": 0,
+        "repo": "Ramayanam_Sribhashyam_Appalacharya",
+        "path": "data/dd/ddeba9d2-6313-4865-8169-b0c41d2a4cdb/cover.0",
+        "bytes": 398007,
+        "sha": "4b08ce2156820117c01961cae7a613d2a7fa0a0a"
+      }
+    ]
+  }
+}
