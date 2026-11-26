@@ -9,7 +9,7 @@
   "repos": [
     {
       "name": "Ramayanam_Sribhashyam_Appalacharya",
-      "usedBytes": 190412756,
+      "usedBytes": 206281376,
       "full": false
     }
   ],
@@ -28,8 +28,22 @@
       "addedAt": "2026-11-26T05:56:13.547Z",
       "updatedAt": "2026-11-26T05:56:13.547Z",
       "manifest": "manifests/4616f1ff-ded9-4d26-9bb1-665e9c0edc6d.json"
+    },
+    {
+      "id": "ec569198-d934-4882-9ab0-20e393e604d7",
+      "kind": "audio",
+      "title": "AN INTRODUCTION TO SRIMAN SRIBHASHYAM APPLACHARYULU BY SRI PRASANNA KUMAR",
+      "artist": "Murali Mohan",
+      "album": "Unknown",
+      "duration": 922,
+      "mime": "audio/mpeg",
+      "bytes": 15311367,
+      "sha256": "9c1249f4dd3b76bdc5f953ba4f9d6ccf2ba87b54895aba3c7276fa26ec224ab7",
+      "addedAt": "2026-11-26T05:56:12.553Z",
+      "updatedAt": "2026-11-26T05:56:12.553Z",
+      "manifest": "manifests/ec569198-d934-4882-9ab0-20e393e604d7.json"
     }
   ],
   "sources": [],
-  "updatedAt": "2026-11-26T05:58:39.527Z"
+  "updatedAt": "2026-11-26T05:59:05.972Z"
 }
