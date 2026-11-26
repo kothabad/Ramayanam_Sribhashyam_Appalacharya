@@ -1,0 +1,48 @@
+{
+  "schemaVersion": 1,
+  "trackId": "435a3761-f5e2-401f-b969-1356e0eb6862",
+  "media": {
+    "name": "11_SITARAMAKALAYANAM & SRIRAMAPATTASHEKAM Sribhashyam Appalacharyaswamy-(132k).mp3",
+    "mime": "audio/mpeg",
+    "bytes": 75239799,
+    "sha256": "f8fe4e9ff486132a5b3ec6f06ba1df20f3c6965d04448d3390e9c65933dfb7aa",
+    "parts": [
+      {
+        "n": 0,
+        "repo": "Ramayanam_Sribhashyam_Appalacharya",
+        "path": "data/43/435a3761-f5e2-401f-b969-1356e0eb6862/media.0",
+        "bytes": 25690112,
+        "sha": "569301551939cf1cb4778446b4398f4e984900e3"
+      },
+      {
+        "n": 1,
+        "repo": "Ramayanam_Sribhashyam_Appalacharya",
+        "path": "data/43/435a3761-f5e2-401f-b969-1356e0eb6862/media.1",
+        "bytes": 25690112,
+        "sha": "72ac585cb06fe6e7e0c34b58ef951ac9898e20b3"
+      },
+      {
+        "n": 2,
+        "repo": "Ramayanam_Sribhashyam_Appalacharya",
+        "path": "data/43/435a3761-f5e2-401f-b969-1356e0eb6862/media.2",
+        "bytes": 23859575,
+        "sha": "4721fca0813f4d7f8269b97f07688bd4cf8df95c"
+      }
+    ]
+  },
+  "cover": {
+    "name": "cover.png",
+    "mime": "image/png",
+    "bytes": 226465,
+    "sha256": "91ade3130eef1548f3c80a6b186491eb61c66ce05912a6b70558a124c252103e",
+    "parts": [
+      {
+        "n": 0,
+        "repo": "Ramayanam_Sribhashyam_Appalacharya",
+        "path": "data/43/435a3761-f5e2-401f-b969-1356e0eb6862/cover.0",
+        "bytes": 226465,
+        "sha": "12ce69e585e45feb0c2e084405f169561c5a16d2"
+      }
+    ]
+  }
+}
