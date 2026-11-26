@@ -9,7 +9,7 @@
   "repos": [
     {
       "name": "Ramayanam_Sribhashyam_Appalacharya",
-      "usedBytes": 562766055,
+      "usedBytes": 635931973,
       "full": false
     }
   ],
@@ -126,8 +126,22 @@
       "addedAt": "2026-11-26T05:56:12.699Z",
       "updatedAt": "2026-11-26T05:56:12.699Z",
       "manifest": "manifests/c090e554-4be4-4dbb-b65a-d11fad2bccc5.json"
+    },
+    {
+      "id": "2c20f59b-55d1-4fa0-9f22-a0236a5c5403",
+      "kind": "audio",
+      "title": "RAMAYANAM KISHKINDAKANDA Sriman Sribhashyam Appalacharyaswamy",
+      "artist": "Murali Mohan",
+      "album": "Unknown",
+      "duration": 4517,
+      "mime": "audio/mpeg",
+      "bytes": 72721662,
+      "sha256": "43a5c57754fa23bff66ebeb0da5fc9ffc789c8ed0920e517d783a5570225fdd1",
+      "addedAt": "2026-11-26T05:56:13.079Z",
+      "updatedAt": "2026-11-26T05:56:13.079Z",
+      "manifest": "manifests/2c20f59b-55d1-4fa0-9f22-a0236a5c5403.json"
     }
   ],
   "sources": [],
-  "updatedAt": "2026-11-26T06:04:20.347Z"
+  "updatedAt": "2026-11-26T06:05:19.433Z"
 }
